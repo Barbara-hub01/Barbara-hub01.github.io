@@ -15,4 +15,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Cr
 
 - **LinkedIn:** https://www.linkedin.com/in/barbara-ferreira-0a7076221
 - **E-mail:** `barbara.santos492002@gmail.com`
--
