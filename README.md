@@ -8,7 +8,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Cr
 
 ### 🛠️ Habilidades & Tecnologias
 
-- **Linguagens & Consulta:** Python  | SQL 
+- **Linguagens & Banco de Dados:** Python  | MySQL | JavaScript
+- **Desenvolvimento Web:** HTML5, CSS3 *(em aprendizado contínuo)*
+- **Foco de Estudo:** Análise de Dados, Modelagem de Bancos de Dados e Desenvolvimento Web Front-End/Back-End
 ---
 
 ### 📬 Contato
